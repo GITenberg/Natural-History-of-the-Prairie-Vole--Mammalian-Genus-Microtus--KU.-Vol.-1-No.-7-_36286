@@ -1,0 +1,60 @@
+_repo: Natural-History-of-the-Prairie-Vole--Mammalian-Genus-Microtus--KU.-Vol.-1-No.-7-_36286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jameson, E. W. (Everett Williams)
+    alias: Jameson, Everett Williams
+    birthdate: 1921
+    gutenberg_agent_id: '38177'
+    url: http://www.gutenberg.org/2009/agents/38177
+  editors:
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Taylor, Edward Harrison
+    alias: Taylor, Edward H. (Edward Harrison)
+    birthdate: 1889
+    deathdate: 1978
+    gutenberg_agent_id: '36954'
+    url: http://www.gutenberg.org/2009/agents/36954
+  - agent_name: Lane, Henry Higgins
+    alias: Lane, H. H. (Henry Higgins)
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '38005'
+    url: http://www.gutenberg.org/2009/agents/38005
+  - agent_name: Farner, Donald S. (Donald Sankey)
+    aliases:
+    - Farner, D. S. (Donald Sankey)
+    - Farner, Donald Stanley
+    - Farner, Donald Sankey
+    birthdate: 1915
+    deathdate: 1988
+    gutenberg_agent_id: '38178'
+    url: http://www.gutenberg.org/2009/agents/38178
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2011-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36286'
+  lccn: '48045100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Microtus'
+title: 'Natural History of the Prairie Vole (Mammalian Genus Microtus)
+
+  [KU. Vol. 1 No. 7]'
+url: http://www.gutenberg.org/ebooks/36286
